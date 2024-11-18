@@ -4,5 +4,5 @@ compatibility_date = "2024-05-29"
 compatibility_flags = ["nodejs_compat"]
 
 kv_namespaces = [
-  { binding = "v2ray-worker-settings", id = "11fae019217b4e1aa51a8585235e176c" }
+  { binding = "settings", id = "11fae019217b4e1aa51a8585235e176c" }
 ]
